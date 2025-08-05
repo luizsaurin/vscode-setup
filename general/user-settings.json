@@ -1,0 +1,33 @@
+{
+	"editor.suggestSelection": "first",
+    "terminal.integrated.enableFileLinks": "off",
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "none",
+    "editor.fontLigatures": true,
+    "explorer.confirmDragAndDrop": false,
+	"diffEditor.wordWrap": "off",
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+	"editor.lineHeight": 19,
+    "editor.fontWeight": "normal",
+    "editor.inlayHints.enabled": "off",
+	"editor.foldingImportsByDefault": true,
+    "editor.tabSize": 4,
+	"editor.insertSpaces": false,
+    "git.confirmSync": false,
+    "terminal.integrated.scrollback": 100000,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+	"explorer.autoReveal": false,
+	"debug.terminal.clearBeforeReusing": true,
+	"diffEditor.renderSideBySide": false,
+	"workbench.layoutControl.enabled": false,
+	"debug.openDebug": "neverOpen",
+	"window.commandCenter": false,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": "always"
+	},
+	"terminal.integrated.fontSize": 12,
+	"debug.console.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+	"debug.console.fontSize": 12,
+	"diffEditor.hideUnchangedRegions.enabled": true
+}
