@@ -29,5 +29,6 @@
 	"terminal.integrated.fontSize": 12,
 	"debug.console.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
 	"debug.console.fontSize": 12,
-	"diffEditor.hideUnchangedRegions.enabled": true
+	"diffEditor.hideUnchangedRegions.enabled": true,
+	"editor.rulers": [120]
 }
