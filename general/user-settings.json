@@ -8,6 +8,7 @@
 	"diffEditor.wordWrap": "off",
 	"editor.minimap.enabled": false,
 	"editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+	"editor.fontSize": 14,
 	"editor.lineHeight": 19,
 	"editor.fontWeight": "normal",
 	"editor.inlayHints.enabled": "off",
@@ -26,15 +27,19 @@
 	"editor.codeActionsOnSave": {
 		"source.organizeImports": "always"
 	},
-	"terminal.integrated.fontSize": 12,
+	"terminal.integrated.fontSize": 14,
 	"debug.console.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
-	"debug.console.fontSize": 12,
+	"debug.console.fontSize": 14,
 	"diffEditor.hideUnchangedRegions.enabled": true,
-	"editor.rulers": [120],
 	"github.copilot.enable": false,
 	"github.copilot.editor.enableAutoCompletions": false,
 	"extensions.ignoreRecommendations": true,
 	"workbench.enableExperiments": false,
 	"telemetry.telemetryLevel": "off",
-	"editor.rulers": [120]
+	"editor.rulers": [120],
+	"workbench.colorTheme": "Atom One Dark",
+	"workbench.iconTheme": "material-icon-theme",
+	"material-icon-theme.folders.theme": "classic",
+	"terminal.integrated.initialHint": false,
+	"terminal.integrated.stickyScroll.maxLineCount": 2
 }
