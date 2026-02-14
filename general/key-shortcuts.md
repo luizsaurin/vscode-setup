@@ -14,3 +14,4 @@ Essential key shortcuts
 | Add Selection to Next Find Match | Ctrl + D |
 | Move Line Up | Alt + UpArrow |
 | Move Line Down | Alt + DownArrow |
+| Focus and Select Breadcrumbs | Ctrl + Shift + . |
